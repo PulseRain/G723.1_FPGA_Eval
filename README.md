@@ -12,7 +12,7 @@ Evulation G723.1 Audio Quality on FPGA board
 * [PMOD Stereo Audio Input and Output ](https://digilent.com/shop/pmod-i2s2-stereo-audio-input-and-output/)
 
 
-<img src="https://github.com/PulseRain/G723.1_FPGA_Eval/raw/main/docs/board_with_pmod_audio_rotary.png" width = "400" />
+<img src="https://github.com/PulseRain/G723.1_FPGA_Eval/raw/main/docs/board_with_pmod_audio_rotary.png" width = "600" />
 
   Assemble the PMOD modules to the FPGA board as shown above.
 

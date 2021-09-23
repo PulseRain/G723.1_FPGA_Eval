@@ -22,13 +22,13 @@ Evaluate G723.1 Audio Quality on FPGA board
 
 * Connect the FPGA board to a Windows PC through USB
 
-* Open Vivado Hardware Manager, auto detect the device. If there is no flash device showing up down below, right click and device and choose the "Add Configuration Memory Device" from the context menu.
+* Open Vivado Hardware Manager, auto detect the device. If there is no flash device showing up, right click and device and choose the "Add Configuration Memory Device" from the context menu.
 
 * Choose the s25fl128sxxxxxxx0-spi-x1_x2_x4 as the memory device (illustrated below)
 
 <img src = "https://github.com/PulseRain/G723.1_FPGA_Eval/raw/main/docs/hardware.png" />
 
-* Program the flash devide with [this bin file](https://github.com/PulseRain/G723.1_FPGA_Eval/raw/main/bitstream/ArtyA7_100T.bin)
+* Program the flash device with [this bin file](https://github.com/PulseRain/G723.1_FPGA_Eval/raw/main/bitstream/ArtyA7_100T.bin)
 
 <br />
 
